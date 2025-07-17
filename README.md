@@ -2,7 +2,7 @@
 
 **Flik** is a full-featured, full-stack **Think Board** application designed to help you capture, organize, and manage your thoughts with elegance and efficiency. Built using the MERN stack, it offers a clean UI, responsive design, smooth drag interactions, and performance-optimized architecture.
 
-👉 **Live Demo**: []()
+👉 **Live Demo**: [https://flik.architjain.dev/](https://flik.architjain.dev/)
 
 ---
 
