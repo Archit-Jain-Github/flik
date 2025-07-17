@@ -1,0 +1,22 @@
+{
+  "name": "flik",
+  "version": "1.0.0",
+  "description": "**Flik** is a full-featured, full-stack **Think Board** application designed to help you capture, organize, and manage your thoughts with elegance and efficiency. Built using the MERN stack, it offers a clean UI, responsive design, smooth drag interactions, and performance-optimized architecture.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archit-Jain-Github/flik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Archit-Jain-Github/flik/issues"
+  },
+  "homepage": "https://github.com/Archit-Jain-Github/flik#readme"
+}
